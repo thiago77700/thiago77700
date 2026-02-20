@@ -91,10 +91,11 @@ I also create content and share insights on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago77700&show_icons=true&theme=github_dark" />
 </p>
 
 ---
+
 
 ---
 
