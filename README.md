@@ -1,6 +1,7 @@
 # Hi 👋, I'm Luis Thiago 
 
-🚀 **junior Data Analyst & estagiario em analises e desenvolvimento de sistemas Intern in systems analysis and development** 
+🚀 **🚀 Junior Data Analyst & Systems Analysis and Development Intern  
+🇧🇷 Based** 
 🟩🟨🟦⬜ 🇧🇷 Brazil
 
 I build **data pipelines**, **dashboards**, and **analytics solutions**.  
@@ -65,7 +66,7 @@ I also create content and share insights on:
 ---
 
 
-## 🧠 What I Do
+## 🧠 Core Competencies
 
 - 🗄️ **Data Analysis & SQL** – Extract, clean, and analyze complex datasets  
 - 📊 **Dashboards & BI** – Create interactive dashboards in Power BI  
