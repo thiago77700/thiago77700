@@ -88,16 +88,23 @@ I also create content and share insights on:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=default" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiago77700&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago77700&layout=compact&theme=tokyonight" />
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thiago77700&theme=github-dark&hide_border=true" />
 </p>
 
+---
 ---
 
 ## 🚀 Data Philosophy
