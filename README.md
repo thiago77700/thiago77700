@@ -70,12 +70,8 @@ I also create content and share insights on:
 
 - 🗄️ **Data Analysis & SQL** – Extract, clean, and analyze complex datasets  
 - 📊 **Dashboards & BI** – Create interactive dashboards in Power BI  
-- 📈 **Excel Analytics** – Advanced pivot tables, formulas, and reporting  
-- 🧩 **Data Modeling & ETL** – Build clean, scalable data pipelines  
-- 🔐 **Data Governance & Security** – Ensure safe and compliant data handling  
-- 🤖 **Automation & Integrations** – Streamline data processes and reporting  
-- 💡 **Business Insights & Strategy** – Turn data into actionable decisions  
-- 🎓 **Teaching & Knowledge Sharing** – Mentoring in analytics and BI tools
+- 📈 **Excel Analytics** – Advanced pivot tables, formulas, and reporting   
+- 💡 **Business Insights & Strategy** – Turn data into actionable 
 
 ---
 
