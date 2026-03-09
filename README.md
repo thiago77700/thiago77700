@@ -4,7 +4,7 @@
 🇧🇷 Based** 
 🟩🟨🟦⬜ 🇧🇷 Brazil
 
-I build data analysis projects, dashboards, and business insights.**,
+I build data analysis projects, dashboards, and business insights.,
 
 I’m deeply focused on **data analysis, clean processes, and business-driven insights**.
 
@@ -35,7 +35,7 @@ I also create content and share insights on:
 - **SQL & Data Analysis**  
 - **Excel & BI Tools**  
 - **Power BI & Data Visualization**  
-- **Tech Entrepreneurship**
+- **Tech & Data Entrepreneurship**
 .
 
 ---
