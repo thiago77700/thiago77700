@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luis Thiago 
 
-🚀 **🚀 Junior Data Analyst & Systems Analysis and Development Intern  
+ **🚀 Junior Data Analyst & Systems Analysis and Development Intern  
 🇧🇷 Based** 
 🟩🟨🟦⬜ 🇧🇷 Brazil
 
@@ -35,8 +35,7 @@ I also create content and share insights on:
 - **SQL & Data Analysis**  
 - **Excel & BI Tools**  
 - **Power BI & Data Visualization**  
-- **Tech & Data Entrepreneurship**
-.
+- **Tech & Data Entrepreneurship**.
 
 ---
 
