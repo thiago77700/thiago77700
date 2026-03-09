@@ -4,7 +4,8 @@
 🇧🇷 Based** 
 🟩🟨🟦⬜ 🇧🇷 Brazil
 
-I build **data pipelines**, **dashboards**, and **analytics solutions**.  
+I build data analysis projects, dashboards, and business insights.**,
+
 I’m deeply focused on **data analysis, clean processes, and business-driven insights**.
 
 ---
