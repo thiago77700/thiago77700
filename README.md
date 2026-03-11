@@ -111,7 +111,7 @@ I also create content and share insights on:
 HR data analysis project focused on identifying factors that influence employee turnover and supporting strategic business decisions.
 
 **Tools:** SQL, Excel, Power BI  
-🔗 https://github.com/seuusuario/hr-attrition-analysis
+🔗 https://github.com/thiago77700/hr-attrition-analysis
 
 
 ### 🛒 Retail Sales Analysis
@@ -125,7 +125,7 @@ Retail sales data analysis to identify purchasing patterns, product performance,
 Interactive dashboard designed to monitor sales performance and support data-driven decision making.
 
 **Tools:** SQL, Power BI  
-🔗 https://github.com/seuusuario/sales-dashboard-sql-powerbi
+🔗https://github.com/thiago77700/sql-powerbi-analise-vendas
 
 ⭐ If you find value in my projects, consider starring a repository  
 🤝 Open to collaborations, data projects, and impactful business ideas  
