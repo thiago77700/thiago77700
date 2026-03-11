@@ -105,6 +105,27 @@ I also create content and share insights on:
 > It's about transforming information into insights that drive smarter decisions and real business growth."_
 
 ---
+## 📊 Featured Projects
+
+### 📊 HR Analytics – Employee Attrition Analysis
+HR data analysis project focused on identifying factors that influence employee turnover and supporting strategic business decisions.
+
+**Tools:** SQL, Excel, Power BI  
+🔗 https://github.com/seuusuario/hr-attrition-analysis
+
+
+### 🛒 Retail Sales Analysis
+Retail sales data analysis to identify purchasing patterns, product performance, and business growth opportunities.
+
+**Tools:** SQL, Excel, Power BI  
+🔗 https://github.com/thiago77700/AnaliseVendasVarejo
+
+
+### 📈 Sales Dashboard
+Interactive dashboard designed to monitor sales performance and support data-driven decision making.
+
+**Tools:** SQL, Power BI  
+🔗 https://github.com/seuusuario/sales-dashboard-sql-powerbi
 
 ⭐ If you find value in my projects, consider starring a repository  
 🤝 Open to collaborations, data projects, and impactful business ideas  
